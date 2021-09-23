@@ -1,0 +1,46 @@
+body{
+  margin: 0px 0px 0px 0px;
+  background-color: #D7e6e5;
+  padding:0px
+}
+
+.bg{
+  background-color: #1E3174 !important;
+}
+
+.containerfooter{
+  background-color: #1E3174 !important;
+  margin: 0px;
+  padding: 0px;
+}
+
+.img-responsive{
+  margin-right: 50px;
+  margin-top: 15px;
+}
+
+/*Quem Somos*/
+.textoSN{
+  text-align: justify;
+  max-width: 80%;
+  margin-bottom: 40px;
+  margin-top: 80px;
+}
+
+.textoSN h2{
+ font-size:xx-large;
+ font-weight: bolder;
+ margin-bottom: 30px;
+}
+
+.textoSN p{
+  margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+ 
